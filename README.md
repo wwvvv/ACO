@@ -1,6 +1,6 @@
 ## ACO
 
-> 其生若浮，其死若休
+> 如鱼得水，冷暖自知
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=wwvvv&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true">
@@ -13,19 +13,16 @@ This is aco from Shenzhen, China.
 I am interested in DIY. In my spare time, I want to share interesting DIY tips. My article will be published in my [blog](https://ddli.cn)(zh-CN).
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyagawaSeirin&layout=compact">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwvvv&layout=compact">
 </a>
 
-~~You can also find my photo on [Dress](https://github.com/komeiji-satori/Dress/tree/master/AyagawaSeirin(PPLin)).~~
 
-[More about me](https://owomoe.net/other/7.html)
+[More about me](https://ddli.cn)
 
 ### Contact
-Welcome to chat with me! Here is my contact.<br>
-And I'm delighted if you can join my [Telegram Channel](https://t.me/rinrinmoe) and [Telegram group](https://t.me/seirinmoe).
+Welcome to chat with me! Here is my contact.
 
-[![Twitter](https://img.shields.io/badge/dynamic/json?color=1DA1F2&label=Twitter&logo=twitter&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DAyagawaSeirin&style=for-the-badge)](https://twitter.com/AyagawaSeirin)
-[![Telegram](https://img.shields.io/badge/Telegram-@AyagawaSeirin-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/AyagawaSeirin)
+[![Twitter](https://img.shields.io/badge/dynamic/json?color=1DA1F2&label=Twitter&logo=twitter&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3D_erek&style=for-the-badge)](https://twitter.com/_erek)
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&color=181717&style=for-the-badge&query=$.data.totalSubs&url=https%3a%2f%2fapi.spencerwoo.com%2fsubstats%2f%3fsource%3dgithub%26queryKey%3dAyagawaSeirin)](https://github.com/AyagawaSeirin)
-[![Blog](https://img.shields.io/badge/dynamic/json?logo=hexo&color=0E83CD&label=Blog&query=$.data.totalSubs&style=for-the-badge&url=https%3a%2f%2fapi.spencerwoo.com%2fsubstats%2f%3fsource%3dfeedly%26queryKey%3dhttps%3a%2f%2fowomoe.net%2ffeed%2findex.xml%26source%3dinoreader%26queryKey%3dhttps%3a%2f%2fblog.ichr.me%2fatom.xml)](https://owomoe.net/)
-[![Mail](https://img.shields.io/badge/-AyagawaSeirin@outlook.com-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:AyagawaSeirin@outlook.com)
+[![Blog](https://img.shields.io/badge/dynamic/json?logo=hexo&color=0E83CD&label=Blog&query=$.data.totalSubs&style=for-the-badge&url=https%3a%2f%2fapi.spencerwoo.com%2fsubstats%2f%3fsource%3dfeedly%26queryKey%3dhttps%3a%2f%2fddli.cn%2ffeed%2findex.xml%26source%3dinoreader%26queryKey%3dhttps%3a%2f%2fblog.ichr.me%2fatom.xml)](https://ddli.cn/)
+[![Mail](https://img.shields.io/badge/-a-co@foxmail.com-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:a-co@foxmail.com)
